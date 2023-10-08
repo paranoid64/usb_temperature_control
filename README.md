@@ -5,6 +5,7 @@ An Arduino NANO that outputs the current temperature as JSON in Celsius and Fahr
 This JSON can then be used in another programming language for your own projects. E.g. if it is 24° C in the room, the PC should shut down.
 
 This is an example of what a JSON looks like:
+
 {"Celsius":"30.37","Fahrenheit":"86.68"}
 
 ## Install Firmeware to Arduino NANO
