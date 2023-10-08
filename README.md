@@ -34,3 +34,8 @@ DIO is D2
 ## 3D printer data
 is in the folder "3D_Printer_Files"
 As program is used SketchUp.
+
+## Examples
+I add examples in the "example" folder.
+
+First, a simple example of how to use a HiveOS miner as a heater with the USB Temp Crontrol. From 18 °C the miner is started and from 22 ° it is stopped again.
