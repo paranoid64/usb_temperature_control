@@ -6,7 +6,9 @@ This JSON can then be used in another programming language for your own projects
 
 This is an example of what a JSON looks like:
 
+```
 {"Celsius":"30.37","Fahrenheit":"86.68"}
+```
 
 ## Install Firmeware to Arduino NANO
 Download this projekt folder and extract to e.g.: /home/user/Desktop/usb_temp_control
